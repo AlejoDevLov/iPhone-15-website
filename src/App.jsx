@@ -1,4 +1,4 @@
-import { Hero, Highlights, Model, Navbar, Features } from "./components"
+import { Hero, Highlights, Model, Navbar, Features, HowItWorks, Footer } from "./components"
 import * as Sentry from "@sentry/react";
 
 function App() {
@@ -13,6 +13,8 @@ function App() {
       <Highlights />
       <Model />
       <Features />
+      <HowItWorks />
+      <Footer />
 
     </main>
   )

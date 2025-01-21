@@ -10,3 +10,5 @@ export * from  './Lights';
 export * from './Iphone';
 export * from './Loader';
 export * from './Features';
+export * from './HowItWorks';
+export * from './Footer';
